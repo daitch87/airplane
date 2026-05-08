@@ -216,3 +216,5 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# 개인 API 키 보안을 위해 추가
+.env
